@@ -1,1 +1,1 @@
-Small projects I have worked on :)
+A few projects I have worked on :)
